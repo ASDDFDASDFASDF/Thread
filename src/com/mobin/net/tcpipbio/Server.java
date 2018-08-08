@@ -12,6 +12,7 @@ import java.net.Socket;
  * Creater: MOBIN
  * Date: 2018/8/8
  * Time: 9:57 AM
+ * 单客户端
  */
 public class Server {
     public static void main(String[] args) throws IOException, InterruptedException {
